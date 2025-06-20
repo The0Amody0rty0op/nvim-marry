@@ -28,3 +28,7 @@ Because we’re done with:
 ```js
 let marry = -1000;
 console.log("I'm get:", marry); // I'm get: -1000
+```
+## Did you know !!!
+"Some loops are not bugs... They're systems designed to drain you forever."
+`GO to ./index.tx to mare value then tell me how it's did you love the teast`
